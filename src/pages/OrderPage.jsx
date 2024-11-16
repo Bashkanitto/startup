@@ -17,7 +17,7 @@ const OrderPage = () => {
 			</div>
 
 			<footer className='mt-20'>
-				<p>© 2024, Хелпа</p>
+				<p>© 2024, SmartCore</p>
 			</footer>
 		</div>
 	)
