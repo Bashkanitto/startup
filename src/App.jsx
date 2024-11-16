@@ -30,7 +30,8 @@ function App() {
 			<Header />
 			<div className='main rounded-[50px] p-20 pb-[200px] mt-20 bg-[#E9EDFC]'>
 				<h1 className='text-5xl w-3/4 font-light'>
-					Хелпа - среда, где все получится: тренируйся, развивайся каждый день!
+					SmartCore - среда, где все получится: тренируйся, развивайся каждый
+					день!
 				</h1>
 				<p className='mt-8 text-2xl w-1/2 font-light'>
 					Удобный онлайн-платформа, который поможет развиваться. Специально для

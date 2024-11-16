@@ -14,7 +14,8 @@ const Header = () => {
 		<header className='h-10 w-full flex justify-between items-center py-2 px-10'>
 			<div className='flex gap-4 items-center'>
 				<div className='logo flex gap-1 items-center'>
-					<div className='logo rounded-full bg-[#F0501E] w-5 h-5'></div> Opekun
+					<div className='logo rounded-full bg-[#F0501E] w-5 h-5'></div>
+					SmartCore
 				</div>
 				<select
 					className='py-2 px-4 rounded-xl bg-[#ECEFF3]'
