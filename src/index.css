@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+	line-height: 1.5;
+	font-weight: 400;
+}
+
+h1,
+h2,
+h3,
+h4 {
+	font-weight: 300;
+}
+* {
+	transition: 0.5s;
+}
+
+html {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
